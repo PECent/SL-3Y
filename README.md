@@ -232,4 +232,6 @@ This dataset is suitable for:
 - feature selection research  
 - lifestyle–performance correlation studies  
 
+For full access to the SL‑3Y dataset, qualified researchers may contact the data custodian at *rcm@unialt.sbs*.
+
 

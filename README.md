@@ -17,6 +17,11 @@ It includes **142 lifestyle‑related variables**, grouped into six domains:
 Academic performance is represented using **GPA normalized within each academic program**, allowing fair comparison across disciplines.
 
 ---
+## Departmental Approval Statement
+
+All experimental protocols were reviewed and approved by the Engineering and Law Departments of Islamic Azad University, Meymeh Branch. All academic performance data were harmonized by converting the different grading systems used in Iran and Austria into a unified GPA‑based scale to ensure comparability across students.
+
+---
 
 ## Dataset Summary
 
